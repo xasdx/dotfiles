@@ -1,0 +1,20 @@
+{
+  "editor.renderLineHighlight": "none",
+  "editor.tabSize": 2,
+  "editor.renderIndentGuides": false,
+  "files.autoSave": "off",
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.colorTheme": "CloudsMidnight",
+  "editor.matchBrackets": false,
+  "editor.occurrencesHighlight": false,
+  "files.insertFinalNewline": true,
+  "terminal.integrated.shell.windows": "D:\\_\\tools\\Git\\bin\\bash.exe",
+  "workbench.statusBar.feedback.visible": false,
+  "window.menuBarVisibility": "default",
+  "workbench.sideBar.location": "right",
+  "editor.cursorStyle": "line-thin",
+  // extensions
+  "bracketPairColorizer.forceUniqueOpeningColor": false,
+  "workbench.activityBar.visible": true,
+  "workbench.startupEditor": "newUntitledFile"
+}
