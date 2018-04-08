@@ -1,0 +1,9 @@
+{
+  "Load a module": {
+    "prefix": "req",
+    "body": [
+      "let $2 = require(\"$1\")$0"
+    ],
+    "description": "Loads a nodejs module"
+  }
+}
