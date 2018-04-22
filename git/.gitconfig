@@ -9,4 +9,5 @@
   sl = shortlog -s -n
   dc = diff --cached
   d = diff
-  
+  ps = push origin master
+  pl = pull origin master
